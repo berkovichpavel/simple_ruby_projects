@@ -81,6 +81,6 @@ $ ruby gallows/spec/gallows_spec.rb
 
 👤 **Berkovich Pavel**
 
-- Github: [@acushlakoncept](https://github.com/berkovichpavel)
-- Telegram: [@acushlakoncept](https://t.me/BerkovichPavel)
-- Linkedin: [acushlakoncept](https://www.linkedin.com/in/pavel-berkovich-9844251a4/)
+- Github: [https://github.com/berkovichpavel](https://github.com/berkovichpavel)
+- Telegram: [https://t.me/BerkovichPavel](https://t.me/BerkovichPavel)
+- Linkedin: [https://www.linkedin.com/in/pavel-berkovich-9844251a4/](https://www.linkedin.com/in/pavel-berkovich-9844251a4/)
