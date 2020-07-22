@@ -21,7 +21,7 @@ Gallows (Hangman)  is a paper and pencil guessing game for two or more players. 
 
 ## 🔴 Live Demo <a name = "ldl"></a>
 
-[![Run on Repl.it]](https://simplerubyprojects-1.berkovichpavel.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/berkovichpavel/simple_ruby_projects)](https://repl.it/github/berkovichpavel/simple_ruby_projects)
 
 
 # Getting Started <a name = "gs"></a>
