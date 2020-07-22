@@ -1,5 +1,4 @@
 [![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/berkovichpavel/simple_ruby_projects/tree/master/gallows)
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/berkovichpavel/simple_ruby_projects/tree/master/gallows/issues)
 
 <a text-align="center" href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#bw">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
