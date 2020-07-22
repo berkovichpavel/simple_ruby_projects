@@ -2,8 +2,9 @@
 [![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/berkovichpavel/simple_ruby_projects/tree/master/gallows/issues)
 
 <a text-align="center" href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#ldl">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#bw">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#ldl">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#cd">Class Definitions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#gs">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#author">Author</a>
 
@@ -23,6 +24,20 @@ Gallows (Hangman)  is a paper and pencil guessing game for two or more players. 
 
 [![Run on Repl.it](https://repl.it/badge/github/berkovichpavel/simple_ruby_projects)](https://simplerubyprojects-1.berkovichpavel.repl.run)
 
+# Class Definitions <a name = "cd"></a>
+
+### **Game file**:
+In Game file initializes the **_ResultPrinter class_** , **_WordReader class_** and the **_Gallows class_**.
+
+### **_ResultPrinter Class**:
+Will interact with the game class to read the state of the game and display it.
+
+### **_WordReader Class**:
+Will read words from the file and select one of them as the hidden word
+
+### **_Gallows Class**:
+This class will be responsible for the logic of the game.
+Reads a letter from the console and checks if it matches the hidden word
 
 # Getting Started <a name = "gs"></a>
 
@@ -40,20 +55,7 @@ $ git clone https://github.com/berkovichpavel/simple_ruby_projects.git
 $ ruby gallows/game.rb
 ~~~
 
-# Class Definitions
 
-### **Game file**:
-In Game file initializes the **_ResultPrinter class_** , **_WordReader class_** and the **_Gallows class_**.
-
-### **_ResultPrinter Class**:
-Will interact with the game class to read the state of the game and display it.
-
-### **_WordReader Class**:
-Will read words from the file and select one of them as the hidden word
-
-### **_Gallows Class**:
-This class will be responsible for the logic of the game.
-Reads a letter from the console and checks if it matches the hidden word
 
 #### Testing
 
