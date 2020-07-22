@@ -31,10 +31,10 @@ In Game file initializes the **_ResultPrinter class_** , **_WordReader class_** 
 ### **_ResultPrinter Class_**:
 Will interact with the game class to read the state of the game and display it.
 
-### **_WordReader Class**:
+### **_WordReader Class_**:
 Will read words from the file and select one of them as the hidden word
 
-### **_Gallows Class**:
+### **_Gallows Class_**:
 This class will be responsible for the logic of the game.
 Reads a letter from the console and checks if it matches the hidden word
 
