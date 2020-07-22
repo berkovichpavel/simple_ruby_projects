@@ -40,6 +40,21 @@ $ git clone https://github.com/berkovichpavel/simple_ruby_projects.git
 $ ruby gallows/game.rb
 ~~~
 
+# Class Definitions
+
+### **Game file**:
+In Game file initializes the **_ResultPrinter class_** , **_WordReader class_** and the **_Gallows class_**.
+
+### **_ResultPrinter Class**:
+Will interact with the game class to read the state of the game and display it.
+
+### **_WordReader Class**:
+Will read words from the file and select one of them as the hidden word
+
+### **_Gallows Class**:
+This class will be responsible for the logic of the game.
+Reads a letter from the console and checks if it matches the hidden word
+
 #### Testing
 
 ##### Install Rspec
