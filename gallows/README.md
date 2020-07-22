@@ -28,7 +28,7 @@ Gallows (Hangman)  is a paper and pencil guessing game for two or more players. 
 ### **Game file**:
 In Game file initializes the **_ResultPrinter class_** , **_WordReader class_** and the **_Gallows class_**.
 
-### **_ResultPrinter Class**:
+### **_ResultPrinter Class_**:
 Will interact with the game class to read the state of the game and display it.
 
 ### **_WordReader Class**:
