@@ -20,11 +20,11 @@ class YoungRansomware
   ACTS = %i[encrypt decrypt].freeze
 
   attr_reader :my_alphabet, :my_key, :my_message
-  #
+
   def initialize
     @my_alphabet, @my_key, @my_message = read_from_file
   end
-  #
+
   def work
     ransomware_choice = choice
     answer = send(ransomware_choice[0], my_message, my_alphabet, my_key)
