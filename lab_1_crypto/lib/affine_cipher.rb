@@ -22,6 +22,7 @@ module AffineCipher
 
   def inspection_affine(message, alphabet, key)
     raise ArgumentError, 'Invalid alphabet' if alphabet.split('').uniq != alphabet.split('')
+
     temp = key.split('')
     k = temp.map { |k| alphabet.index(k) }
     if alphabet.index(temp[0]).nil? || alphabet.index(temp[1]).nil?

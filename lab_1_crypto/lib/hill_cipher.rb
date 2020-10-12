@@ -29,7 +29,7 @@ module HillCipher
   end
 
   def inspection_hill(message, alphabet, key)
-    k = key.split('').each_slice(2).map { |s| s.map { |b| alphabet.index(b)} }
+    k = key.split('').each_slice(2).map { |s| s.map { |b| alphabet.index(b) } }
     raise ArgumentError, 'Invalid alphabet' if alphabet.split('').uniq != alphabet.split('')
     raise ArgumentError, 'Invalid key length!' if key.size != 4
     raise ArgumentError, 'Key symbols are not presented in the alphabet!' if (key.split('') - alphabet.split('')) != []
