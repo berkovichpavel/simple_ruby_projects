@@ -31,6 +31,7 @@ class YoungRansomware
     unless answer.nil?
       puts 'Encryption was successful!' if ransomware_choice[1] == 'encrypt'
       puts 'Decryption was successful!' if ransomware_choice[1] == 'decrypt'
+      puts "New message: #{answer}."
       write_to_file(answer, ransomware_choice[1])
     end
   end
