@@ -14,7 +14,7 @@ This project is to demonstrate my knowledge of Object Oriented Programming Langu
 
 # About the lab <a name = "about"></a>
 
-[Laboratory condition](https://drive.google.com/drive/u/0/my-drive)
+[Laboratory condition](https://drive.google.com/file/d/1vz5DxNzGxvxpHUFdqcse4fgscoOyPSuU/view?usp=sharing)
      
 ## Built With <a name = "bw"></a>
 
